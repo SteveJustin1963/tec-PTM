@@ -13,5 +13,6 @@ TEC-1 Paper Tape Machine, read write
 - http://windways.org/personal_page/stockticker/
 - https://maker.pro/pic/projects/diy-punch-card-reader-using-pic-microntroller
 - https://hackaday.com/2014/05/02/reading-paper-tapes-from-scratch/
+- ebay ... 30-Note DIY Hand Cranked Music Box Movement + Puncher + 3 Blank Strip Tapes
 - 
 
