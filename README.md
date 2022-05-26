@@ -1,6 +1,16 @@
 # tec-PTM
 TEC-1 Paper Tape Machine, read write
 
+![download](https://user-images.githubusercontent.com/58069246/170592622-c2f58074-f30a-4d56-a3fb-fdfeafb380d7.jpg)
+![download](https://user-images.githubusercontent.com/58069246/170592625-a6b35433-a4c1-4573-9fe4-fe3b5f686253.jpg)
+![images](https://user-images.githubusercontent.com/58069246/170592646-cd7278c4-3c43-42eb-a5a8-2e0d232dee65.jpg)
+![images](https://user-images.githubusercontent.com/58069246/170592677-4870f738-97a7-49e3-9920-642f736064a1.jpg)
+![images](https://user-images.githubusercontent.com/58069246/170592697-543e1f7b-33ff-47dc-bbcc-a5fbd00ba5ab.jpg)
+![images](https://user-images.githubusercontent.com/58069246/170592758-bd94f8ae-e8c6-4f49-9241-043c74a3de62.jpg)
+![images](https://user-images.githubusercontent.com/58069246/170592880-c1025a40-b236-4a05-8ce9-9c1f3e69bd77.jpg)
+
+
+
 - paper puncher, hole reader
 
 ## Iterate
