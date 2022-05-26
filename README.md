@@ -7,7 +7,8 @@ TEC-1 Paper Tape Machine, read write
 ![images](https://user-images.githubusercontent.com/58069246/170592677-4870f738-97a7-49e3-9920-642f736064a1.jpg)
 ![images](https://user-images.githubusercontent.com/58069246/170592697-543e1f7b-33ff-47dc-bbcc-a5fbd00ba5ab.jpg)
 ![images](https://user-images.githubusercontent.com/58069246/170592758-bd94f8ae-e8c6-4f49-9241-043c74a3de62.jpg)
-![images](https://user-images.githubusercontent.com/58069246/170592880-c1025a40-b236-4a05-8ce9-9c1f3e69bd77.jpg)
+![7423f9a1715b40303adfd6e7dd253a](https://user-images.githubusercontent.com/58069246/170593065-c11b887a-d845-433a-8e84-f21dbb437662.jpg)
+
 
 
 
